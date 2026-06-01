@@ -1,0 +1,12 @@
+1. Find the top 5 companies with the highest average `percentage_laid_off` where `funds_raised` is above the overall median funding, and explain whether higher funding reduced layoff severity.
+2. Identify industries where companies had high `total_laid_off` even when `percentage_laid_off` was low, and explain what this indicates about company size.
+3. Analyze monthly layoff trends using `date` and determine which stage (`stage`) was most affected during economic downturn periods.
+4. Compare countries by average layoffs per company and detect which country had the highest concentration of layoffs from late-stage startups.
+5. Detect companies with repeated layoffs over time and calculate whether each new layoff round became larger or smaller than the previous one.
+6. Find whether missing values (`industry_isnull`, `source_isnull`, `funds_raised_isnull`) are randomly distributed or concentrated in specific countries or industries.
+7. Build a risk score for companies using `percentage_laid_off`, `funds_raised`, and `stage`, then rank the most financially unstable companies.
+8. Determine whether companies with higher funding had lower chances of full layoffs (`percentage_laid_off = 100`) compared to low-funded companies.
+9. Analyze which industries experienced the fastest increase in layoffs year-over-year and identify whether those increases were driven by a few large companies or many smaller ones.
+10. Create a survival-style analysis where you estimate which startup stages were most likely to experience layoffs after raising large amounts of funding.
+
+

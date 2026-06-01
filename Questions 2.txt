@@ -1,0 +1,12 @@
+1. Find the top 5 companies with the highest total layoffs.
+2. Find the number of layoffs by each industry.
+3. Find the average percentage_laid_off for each country.
+4. Find the month-wise total layoffs trend.
+5. Find the companies that laid off 100% employees.
+6. Find the top industry in each country with the highest layoffs.
+7. Find the cumulative total layoffs over time for each country.
+8. Find the companies whose total_laid_off is above the industry average.
+9. Find the stage-wise percentage contribution to total layoffs.
+10. Find the company with the highest layoffs in each year and country combination.
+
+
